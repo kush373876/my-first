@@ -1,1 +1,3 @@
 kush
+age=20years
+uk nainitas
